@@ -17,7 +17,7 @@ background:#607d8b;
  background-color:red;
 }
 .textview{
- width:198px;
+ width:220px;
  margin-bottom:4px;
  margin-top:5px;
  margin-right:20px;
@@ -29,19 +29,15 @@ background:#607d8b;
 }
 .main{
 margin-left:650px;
- margin-top:400px;
+ margin-top:200px;
 }
 h1{
  
  text-align:center;
- color:white;
+ color:rgb(16,183,223);
 }
 body{
 
 background:linear-gradient(to right,#e91e63,#3f51b5);
- height:100%;
-}
-.from{
-    margin-bottom:300px;
-    margin-left:20px;
+ 
 }
